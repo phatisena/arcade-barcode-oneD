@@ -1,4 +1,4 @@
-## oneDbarcodeProject
+## oneDbarcodeArcade
 
 * [ean-barcode](https://arcade.makecode.com/S92856-63785-45981-94274)
 * pharmarcode-barcode
